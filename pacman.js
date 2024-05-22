@@ -21,7 +21,11 @@ document.onkeydown = function(e) {
         pacman.top += 10;
     }
 
-    if (pacman.top === point.top && pacman.left === point.left) {
+    let dx = pacman.left + 10 - (point.left + 5);
+    let dy = pacman.top + 10 - (point.top + 5);
+    let distance = Math.sqrt(dx * dx + dy * dy);
+
+    if (distance < 10) {
         score += 1;
         document.getElementById('score').innerText = "Score: " + score;
         point.top = Math.floor(Math.random() * 280);
