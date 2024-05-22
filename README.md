@@ -1,6 +1,6 @@
 # Simple Pacman Game
 
-This repo contains the code from a simple Pacman live implementation demo. The demo was written, with the help of [Aider](https://aider.chat/), in approx 20 min using GPT4 as a compiler from English to JavaScript. No prior knowledge of JavaScript were required. Details of the conversation with Aider are available in the commit messages.
+This repo contains the code from a simple Pacman live implementation demo. The demo was written, with the help of [Aider](https://aider.chat/), in approx 20 min, using GPT4 as a compiler from English to JavaScript. No prior knowledge of JavaScript were required. Details of the conversation with Aider are available in the commit messages.
 
 ## Prerequisites
 
