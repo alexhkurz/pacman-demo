@@ -1,6 +1,6 @@
 # Simple Pacman Game
 
-This is a simple Pacman game implemented in JavaScript.
+This repo contains the code from a simple Pacman live implementation demo. The demo was written, with the help of [Aider](https://aider.chat/), in approx 20 min using GPT4 as a compiler from English to JavaScript.
 
 ## Prerequisites
 
