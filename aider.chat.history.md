@@ -1,16 +1,5 @@
 
 # aider chat started at 2024-05-21 18:49:54
-
-> No git repo found, create one to track GPT's changes (recommended)? y  
-> Git repository created in the current working directory.  
-> Added .aider* to .gitignore  
-> /opt/homebrew/bin/aider  
-> Aider v0.35.0  
-> Model: azure/gpt-4 with diff edit format  
-> Git repo: .git with 0 files  
-> Repo-map: using 1024 tokens  
-> Use /help to see in-chat commands, run with --help to see cmd line args  
-
 #### i want to develop a little web app to demo aider and gpt4  
 
 Sure, I'd be happy to help you develop a web app to demo Aider and GPT-4. However, I need more specific details about the functionality and design of the web app. Could you please provide more information? For example:
